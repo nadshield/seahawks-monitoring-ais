@@ -39,10 +39,10 @@ Architecture simulant :
 
 ---
 
-##  Documentation
+## 📄 Documentation
 
-- [Voir le dossier technique](documentation/dossier-projet-seahawks.pdf)
-- [Voir la soutenance](documentation/soutenance-seahawks.pdf)
+- [Voir le dossier technique](documentation/dossier_projet_compressed.pdf)
+- [Voir la soutenance](documentation/diapos_soutenance_compressed.pdf)
 
 ---
 
